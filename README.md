@@ -1,7 +1,7 @@
 # RGB Game
-* The game is about guessing the right color given the RGB code.
+* To play, guess the right colour given the RGB-notation of a randomly generated colour.
 
-### Built With:
+## Built With:
 * HTML
 * CSS
 * JavaScript
