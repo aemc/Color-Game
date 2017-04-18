@@ -1,7 +1,10 @@
 # RGB Game
-* To play, guess the right colour given the RGB-notation of a randomly generated colour.
+Personal Project. A game that tests your ability to guess the right color based on the RGB values given.
 
-## Built With:
+## Getting Started
+Clone or download the source code and run the ```index.html``` file within the root directory.
+
+## Built With Vanilla:
 * HTML
 * CSS
 * JavaScript
